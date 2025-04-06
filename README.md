@@ -14,11 +14,13 @@ I have a bachelor's degree in physical-mathematical sciences. I am expanding my 
 
 - 👨‍💻 All my projects are available on my website [Portafolio-de-Marcio-Mallqui]([github.com/Elanza-48](https://sites.google.com/view/portafolio-de-marcio-mallqui/p%C3%A1gina-principal))
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
 - My work gmail address is marciomallquitrabajo@gmail.com
+
+- Academic achievements :
+  
+  * I managed to solve a problem that had remained unsolved for seven years.
+  * Speaker at a XXX Peruvian physics symposium, presenting innovative research with impact on scientific and technological development.
+  * Recognized as the best student of my generation, occupying the First Place during the first four years of academic studies for my excellence and high performance.
 
 ## 🛠️ My Skills
 
@@ -35,7 +37,8 @@ I have a bachelor's degree in physical-mathematical sciences. I am expanding my 
 <a href = "https://www.linkedin.com/in/marcio-olwyn-mallqui-perez/">
   <img  src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-
+<!--
 <a href = "marciomallquitrabajo@gmail.com">
   <img  src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
+-->
