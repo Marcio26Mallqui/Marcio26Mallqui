@@ -18,6 +18,7 @@ I have a bachelor's degree in physical-mathematical sciences. I am expanding my 
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
+- My work gmail address is marciomallquitrabajo@gmail.com
 
 ## 🛠️ My Skills
 
@@ -29,5 +30,12 @@ I have a bachelor's degree in physical-mathematical sciences. I am expanding my 
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> 
 </span>
 
+## Check out Social Media
 
+<a href = "https://www.linkedin.com/in/marcio-olwyn-mallqui-perez/">
+  <img  src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
 
+<a href = "marciomallquitrabajo@gmail.com">
+  <img  src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a> 
